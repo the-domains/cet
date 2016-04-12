@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[CET]]></title>
+        <description><![CDATA[CET]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 12 Apr 2016 09:34:09 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cutting Edge Tooling & Wink]]></title>
+            <description><![CDATA[<article><h1>Cutting Edge Tooling & Wink</h1><p></p></article>]]></description>
+            <link>undefinedcutting-edge-tooling-and-wink/index.html</link>
+            <guid isPermaLink="false">0b7d33ce-9d14-4d44-8b3b-8f27641daa0d</guid>
+            <pubDate>Tue, 12 Apr 2016 09:34:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
