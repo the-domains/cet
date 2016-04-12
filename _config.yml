@@ -1,0 +1,28 @@
+name: CET
+favicon: null
+layout_spectrum: 0.23610614310018718
+typography_spectrum: 0.08080265368334949
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8040104266256094
+  lightness: 0.15763306920416653
+  saturation: 0.16914295684546232
+  rhythmicContrast: 0.42874385928735137
+purpose: []
